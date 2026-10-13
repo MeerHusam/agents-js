@@ -60,7 +60,6 @@ overrides:
 
 allowBuilds:
   '@google/genai': true
-  '@livekit/blingfire': false
   '@livekit/local-inference': true
   esbuild: true
   onnxruntime-node: true
